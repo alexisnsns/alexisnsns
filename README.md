@@ -1,4 +1,4 @@
-Full Stack developer. 
+Full Stack. 
 Currently React dev @apeworx.
-I work mainly with Python/Django and JS.
+I work mainly with Python and JS.
 www.alexisns.com
