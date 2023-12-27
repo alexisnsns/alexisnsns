@@ -1,5 +1,6 @@
 Full Stack. 
-Currently React dev @apeworx.
-I work mainly with Python and React, JS/TS.
+React dev @apeworx.
+
+I work mainly with Python, JS/TS, React.
 
 www.alexn.me
