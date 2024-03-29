@@ -1,6 +1,7 @@
-Full Stack. 
+Full Stack Dev. Mostly crypto.
+
 React dev @apeworx.
 
-I work mainly with Python, JS/TS, React.
+Python/React/React Native dev @getJoin.
 
-www.alexn.me
+I work mainly with Python, JS/TS.
