@@ -7,4 +7,4 @@ React dev - @Apeworx.
 
 Python/React/React Native dev - @getJoin.
 
-Inquiries --> hello<at>alexn.me	
+Inquiries --> hello</at/>alexn.me	
