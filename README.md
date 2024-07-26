@@ -8,3 +8,5 @@ React dev - @Apeworx.
 Python/React/React Native dev - @getJoin.
 
 Inquiries --> hello</at/>alexn.me	
+
+I'm mostly on Gitlab now.
